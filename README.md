@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlatinumIris
+- 👋 Hi, I’m @HarshitCodes2
 - 👀 I’m interested in FullStack Development and AIML
 - 🌱 I’m currently learning C++ and FullStack
 - 💞️ I’m looking to collaborate on ...
